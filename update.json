@@ -1,0 +1,8 @@
+{
+  "versionCode": 21,
+  "versionName": "2.0.1",
+  "minVersionCode": 20,
+  "downloadUrl": "https://github.com/yingxingw/nieve-update/releases",
+  "changelog": "修复底栏选中块点击不移动；修复夸克/UC 登录弹窗抽搐与弹窗透明；恢复跳广告云端规则更新并新增检查入口；无障碍“立即前往”更稳健；新增关于/开发者/开源致谢/隐私协议与检查更新；修复浅色主题背景。",
+  "updateDate": "2026-11-14"
+}
